@@ -1,7 +1,6 @@
 
 # Ads or Not Ads Classification
 
-from re import S
 import tensorflow as tf
 from tensorflow import keras
 model_path = './models/Model_ResNet50_C[AdsNoads]_E100B64.h5' 

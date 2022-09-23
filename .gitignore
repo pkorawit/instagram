@@ -162,3 +162,4 @@ cython_debug/
 models/
 photos/
 post_images_sandbox/
+temp/
